@@ -1,0 +1,36 @@
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-family: 'Piazzolla', serif;
+}
+
+th, td {
+    padding: 5px 10px;
+    text-align: center;
+    color: white;
+    border: 2px solid black;
+}
+
+th {
+    background-color: rgb(88, 13, 95);
+}
+
+td {
+    background-color: rgb(212, 134, 146);
+}
+
+/* tr:last-child {
+    background-color: lightseagreen;
+}
+
+tr:first-child {
+    background-color: lightseagreen;
+}
+
+tr:nth-child(odd) {
+    background-color: lime;
+} */
+
+/* td:nth-child(2n) {
+    color: mediumblue;
+} */
